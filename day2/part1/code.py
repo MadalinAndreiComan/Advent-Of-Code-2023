@@ -1,4 +1,4 @@
-from day2.utils import *
+from day2.common_utils import *
 
 
 def main(lines: list[str]):

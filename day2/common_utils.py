@@ -1,7 +1,3 @@
-def get_name() -> str:
-    return "day2"
-
-
 class Round:
     def __init__(self):
         self.cubes = {}
